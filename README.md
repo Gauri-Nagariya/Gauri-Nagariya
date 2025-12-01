@@ -1,4 +1,4 @@
-# Hi, I’m Gauri 👋
+# Hi, I’m Gauri 
 
 I’m a B.Tech Computer Science student exploring the world of full-stack development through the MERN stack. I enjoy building simple, functional, and scalable web applications with a strong focus on clarity, performance, and user experience.
 
