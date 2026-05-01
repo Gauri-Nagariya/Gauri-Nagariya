@@ -80,7 +80,7 @@ Currently, I’m focused on:
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://your-portfolio-link.com](https://redesignedportfolio.vercel.app/" target="_blank">
+  <a href="https://redesignedportfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
